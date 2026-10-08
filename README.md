@@ -1,12 +1,79 @@
-<!-- HEADER -->
+<!-- ===================================================== -->
+<!--                    HEADER BANNER                     -->
+<!-- ===================================================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D6EFD,100:00C6FF&height=220&section=header&text=Kelompok%205&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img 
+    src="assets/banner-readme.png"
+    alt="Sistem Monitoring Stok Bahan Makanan"
+    width="100%"
+  />
 </p>
 
-<!-- TYPING ANIMATION -->
+
+<!-- ===================================================== -->
+<!--                  TYPING ANIMATION                    -->
+<!-- ===================================================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=750&lines=Sistem+Monitoring+Stok+Bahan+Makanan;Warung+Mi+Ayam+Mas+Tono;Project+Manajemen+Proyek+Perangkat+Lunak;Developed+by+Kelompok+5" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=16A34A&center=true&vCenter=true&width=850&lines=Sistem+Monitoring+Stok+Bahan+Makanan;Warung+Mi+Ayam+Mas+Tono;Project+MPPL+Kelompok+5;Monitoring+Stok+Lebih+Mudah+dan+Terstruktur"
+    alt="Typing Animation"
+  />
 </p>
+
+
+<!-- ===================================================== -->
+<!--                     NAVIGATION                       -->
+<!-- ===================================================== -->
+
+<p align="center">
+
+<a href="#tentang-project">
+<img src="https://img.shields.io/badge/🏠%20TENTANG-166534?style=for-the-badge"/>
+</a>
+
+<a href="#fitur-utama">
+<img src="https://img.shields.io/badge/⚙️%20FITUR-F97316?style=for-the-badge"/>
+</a>
+
+<a href="#teknologi">
+<img src="https://img.shields.io/badge/💻%20TEKNOLOGI-EAB308?style=for-the-badge"/>
+</a>
+
+<a href="#anggota-kelompok">
+<img src="https://img.shields.io/badge/👥%20ANGGOTA-16A34A?style=for-the-badge"/>
+</a>
+
+<a href="#dokumentasi">
+<img src="https://img.shields.io/badge/📄%20DOKUMENTASI-92400E?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="#cara-menjalankan">
+<img src="https://img.shields.io/badge/🚀%20CARA%20MENJALANKAN-F97316?style=for-the-badge"/>
+</a>
+
+</p>
+
+
+<!-- ===================================================== -->
+<!--                 PROJECT STATUS                       -->
+<!-- ===================================================== -->
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🎓%20PROJECT-MPPL%202026-166534?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/👥%20KELOMPOK-Kelompok%205-EAB308?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🚧%20STATUS-Development-F97316?style=for-the-badge"/>
+
+</p>
+
 
 
 ---
