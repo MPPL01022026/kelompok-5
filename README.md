@@ -66,18 +66,22 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🎓%20PROJECT-MPPL%202026-166534?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROJECT-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MPPL%202026-166534?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/👥%20KELOMPOK-Kelompok%205-EAB308?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KELOMPOK-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KELOMPOK%205-EAB308?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/🚧%20STATUS-Development-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEVELOPMENT-F97316?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Framework-CodeIgniter%203-red.svg"/>
+<img src="https://img.shields.io/badge/FRAMEWORK-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CodeIgniter%203-DD2A2A?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Database-MySQL%20%2F%20MariaDB-blue.svg"/>
+<img src="https://img.shields.io/badge/DATABASE-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL%20%2F%20MariaDB-00758F?style=for-the-badge"/>
 
 </p>
-
 ---
 
 <a id="tentang-project"></a>
