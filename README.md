@@ -3,11 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img 
-    src="warungsrc/baner.png"
-    alt="Sistem Monitoring Stok Bahan Makanan"
-    width="100%"
-  />
+  <img src="warungsrc/banner.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
 </p>
 
 
