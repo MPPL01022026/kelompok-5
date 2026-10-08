@@ -49,11 +49,6 @@
 
 <p align="center">
 
-<a href="#cara-menjalankan">
-<img src="https://img.shields.io/badge/🚀%20CARA%20MENJALANKAN-F97316?style=for-the-badge"/>
-</a>
-
-</p>
 
 
 <!-- ===================================================== -->
