@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="assets/banner-readme.png"
+    src="warungsrc/banner.png"
     alt="Sistem Monitoring Stok Bahan Makanan"
     width="100%"
   />
