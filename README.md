@@ -164,17 +164,60 @@ Beberapa bahan yang menjadi bagian dari sistem monitoring antara lain:
 **Program Studi:** S1 Informatika — Fakultas Sains dan Teknologi  
 **Instansi:** Universitas Samudra, Langsa (2026)
 
-| No. | Nama Anggota | NIM | Peran dalam Proyek |
-|:---:|:---|:---:|:---|
-| 1 | **Syahid Al Hakim** | `230504051` |
-| 2 | **Nur Atikah** | `230504054` |
-| 3 | **Mahesa Kayan** | `230504040` |
-| 4 | **Jelita Aprilia Anas Tasya** | `230504033` | 
-**Pemilik / Sponsor UMKM:** Dalu Meriana (*Warung Mie Ayam Mastono*)  
-**Lokasi Usaha:** Jl. Syiah Kuala No 102, Pb. Blang Pase, Langsa Kota, Kota Langsa, Aceh.
+# 👥 Anggota Kelompok
 
+<table align="center">
+  <tr>
+    <th>No.</th>
+    <th>Nama Anggota</th>
+    <th>NIM</th>
+    <th>Peran dalam Proyek</th>
+  </tr>
+  <tr>
+    <td align="center">01</td>
+    <td><b>Syahid Al Hakim</b></td>
+    <td align="center"><code>230504051</code></td>
+    <td align="center">👑 <b>Ketua</b></td>
+  </tr>
+  <tr>
+    <td align="center">02</td>
+    <td><b>Nur Atikah</b></td>
+    <td align="center"><code>230504054</code></td>
+    <td align="center">⭐ <b>Wakil</b></td>
+  </tr>
+  <tr>
+    <td align="center">03</td>
+    <td><b>Mahesa Kayan</b></td>
+    <td align="center"><code>230504040</code></td>
+    <td align="center">👤 <b>Anggota</b></td>
+  </tr>
+  <tr>
+    <td align="center">04</td>
+    <td><b>Jelita Aprilia Anas Tasya</b></td>
+    <td align="center"><code>230504033</code></td>
+    <td align="center">👤 <b>Anggota</b></td>
+  </tr>
+</table>
+---
 ---
 
+# 🏪 Mitra UMKM
+
+<table align="center">
+  <tr>
+    <td><b>🏪 Pemilik / Sponsor UMKM</b></td>
+    <td><b>Dalu Meriana</b></td>
+  </tr>
+  <tr>
+    <td><b>🍜 Nama Usaha</b></td>
+    <td><b>Warung Mie Ayam Mastono</b></td>
+  </tr>
+  <tr>
+    <td><b>📍 Lokasi Usaha</b></td>
+    <td>Jl. Syiah Kuala No. 102, Pb. Blang Pase,<br>
+    Langsa Kota, Kota Langsa, Aceh</td>
+  </tr>
+</table>
 
 
 ## 📄 Lisensi & Hak Cipta
