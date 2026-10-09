@@ -73,8 +73,9 @@
 <img src="https://img.shields.io/badge/MySQL%20%2F%20MariaDB-00758F?style=for-the-badge"/>
 
 </p>
----
-
+<p align="center">
+  <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
+</p>
 <a id="tentang-project"></a>
 # 🍜 Sistem Monitoring Stok Bahan Makanan 
 
@@ -85,7 +86,9 @@ Sistem Monitoring Stok Bahan Makanan merupakan sebuah sistem berbasis konsep **D
 Sistem ini dirancang untuk memenuhi tugas mata kuliah **Manajemen Proyek Perangkat Lunak (MPPL)**, mengatasi permasalahan pencatatan manual, mencegah kehabisan stok saat jam sibuk penjualan, menghindari persediaan berlebih yang basi, serta menyediakan transparansi pengadaan bahan bagi pemilik usaha.
 
 ---
-
+<p align="center">
+  <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
+</p>
 ## 🎯 Konsep Digital Twin pada Sistem
 
 Konsep **Digital Twin** dalam aplikasi ini diterapkan sebagai representasi virtual dari kondisi fisik rak dan persediaan bahan makanan di Warung Mie Ayam Mas Tono:
@@ -94,7 +97,9 @@ Konsep **Digital Twin** dalam aplikasi ini diterapkan sebagai representasi virtu
 - **Peringatan Ambang Batas Otomatis (*Buffer Threshold*):** Notifikasi dini ketika stok menyentuh atau berada di bawah batas minimum (*safety stock*).
 
 ---
-
+<p align="center">
+  <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
+</p>
 ## 🎯 Tujuan Project
 
 Project ini bertujuan untuk membantu pemilik warung dalam:
@@ -107,7 +112,9 @@ Project ini bertujuan untuk membantu pemilik warung dalam:
 - ⏱️ Mengurangi risiko kehabisan bahan saat operasional jam sibuk warung
 
 ---
-
+<p align="center">
+  <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
+</p>
 ## 💡 Permasalahan
 
 Pengelolaan stok bahan makanan yang dilakukan secara manual dapat menyebabkan beberapa permasalahan, seperti:
@@ -121,7 +128,9 @@ Pengelolaan stok bahan makanan yang dilakukan secara manual dapat menyebabkan be
 Oleh karena itu, dikembangkan sebuah sistem monitoring stok berbasis Digital Twin yang dapat membantu proses pengelolaan persediaan secara lebih efektif dan efisien.
 
 ---
-
+<p align="center">
+  <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
+</p>
 ## 🏪 Studi Kasus
 
 ### Warung Mi Ayam Mas Tono
@@ -139,7 +148,9 @@ Beberapa bahan yang menjadi bagian dari sistem monitoring antara lain:
 | 🥟 **Kulit Pangsit** | Pangsit goreng / rebus | bungkus |
 
 ---
-
+<p align="center">
+  <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
+</p>
 <a id="fitur-utama"></a>
 ## 🚀 Fitur Utama
 
@@ -154,17 +165,16 @@ Beberapa bahan yang menjadi bagian dari sistem monitoring antara lain:
 | 📑 **Laporan & Cetak Dokumen** | Rekapitulasi mutasi dan valuasi persediaan siap cetak formal / export PDF |
 
 ---
-
+<p align="center">
+  <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
+</p>
 
 <a id="anggota-kelompok"></a>
 ## 👥 Tim Pengembang (Kelompok 5)
 
-**Mata Kuliah:** Manajemen Proyek Perangkat Lunak (MPPL)  
-**Dosen Pengampu:** Cut Alna Fadhilla, S.Kom., M.Sc  
-**Program Studi:** S1 Informatika — Fakultas Sains dan Teknologi  
-**Instansi:** Universitas Samudra, Langsa (2026)
-
-# 👥 Anggota Kelompok
+<p align="center">
+  <img src="warungsrc/team.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
+</p>
 
 <table align="center">
   <tr>
@@ -198,9 +208,14 @@ Beberapa bahan yang menjadi bagian dari sistem monitoring antara lain:
     <td align="center">👤 <b>Anggota</b></td>
   </tr>
 </table>
----
----
 
+**Mata Kuliah:** Manajemen Proyek Perangkat Lunak (MPPL)  
+**Dosen Pengampu:** Cut Alna Fadhilla, S.Kom., M.Sc  
+**Program Studi:** S1 Informatika — Fakultas Sains dan Teknologi  
+**Instansi:** Universitas Samudra, Langsa (2026)
+<p align="center">
+  <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
+</p>
 # 🏪 Mitra UMKM
 
 <table align="center">
@@ -218,8 +233,9 @@ Beberapa bahan yang menjadi bagian dari sistem monitoring antara lain:
     Langsa Kota, Kota Langsa, Aceh</td>
   </tr>
 </table>
-
-
+<p align="center">
+  <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
+</p>
 ## 📄 Lisensi & Hak Cipta
 
 Dikembangkan oleh **Kelompok 5 MPPL 2026** - Program Studi Informatika, Universitas Samudra. Didedikasikan untuk kemajuan operasional UMKM **Warung Mie Ayam Mastono**.
