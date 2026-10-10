@@ -79,7 +79,7 @@
 <a id="tentang-project"></a>
 # 🍜 Sistem Monitoring Stok Bahan Makanan 
 
-### Warung Mi Ayam Mas Tono
+<h2> Warung Mi Ayam Mas Tono </h2>
 
 Sistem Monitoring Stok Bahan Makanan merupakan sebuah sistem berbasis konsep **Digital Twin** yang dikembangkan untuk merepresentasikan kondisi fisik stok bahan makanan secara digital dan aktual di **Warung Mi Ayam Mas Tono**.
 
@@ -89,7 +89,7 @@ Sistem ini dirancang untuk memenuhi tugas mata kuliah **Manajemen Proyek Perangk
 <p align="center">
   <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
 </p>
-## 🎯 Konsep Digital Twin pada Sistem
+<h2>🎯 Konsep Digital Twin pada Sistem </h2>
 
 Konsep **Digital Twin** dalam aplikasi ini diterapkan sebagai representasi virtual dari kondisi fisik rak dan persediaan bahan makanan di Warung Mie Ayam Mas Tono:
 - **Sinkronisasi Dinamis:** Setiap transaksi stok masuk (*penerimaan dari pasar/supplier*) dan stok keluar (*pemakaian memasak harian*) secara otomatis memperbarui representasi kembar digital secara instan.
@@ -100,22 +100,8 @@ Konsep **Digital Twin** dalam aplikasi ini diterapkan sebagai representasi virtu
 <p align="center">
   <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
 </p>
-## 🎯 Tujuan Project
 
-Project ini bertujuan untuk membantu pemilik warung dalam:
-
-- 📦 Memantau ketersediaan bahan makanan secara real-time
-- 📊 Mengetahui jumlah stok fisik aktual yang tersedia
-- ⚠️ Mendeteksi dini bahan yang mulai menipis melalui buffer alert
-- 📝 Mengelola data bahan makanan, kategori, dan batas minimum
-- 🔄 Mempermudah proses pencatatan stok masuk dan keluar
-- ⏱️ Mengurangi risiko kehabisan bahan saat operasional jam sibuk warung
-
----
-<p align="center">
-  <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
-</p>
-## 💡 Permasalahan
+<h2>💡 Permasalahan </h2>
 
 Pengelolaan stok bahan makanan yang dilakukan secara manual dapat menyebabkan beberapa permasalahan, seperti:
 
@@ -126,12 +112,26 @@ Pengelolaan stok bahan makanan yang dilakukan secara manual dapat menyebabkan be
 - Proses pengecekan fisik membutuhkan waktu dan tenaga
 
 Oleh karena itu, dikembangkan sebuah sistem monitoring stok berbasis Digital Twin yang dapat membantu proses pengelolaan persediaan secara lebih efektif dan efisien.
-
----
 <p align="center">
   <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
 </p>
-## 🏪 Studi Kasus
+
+<h2>🎯 Tujuan Project </h2>
+
+Project ini bertujuan untuk membantu pemilik warung dalam:
+
+- 📦 Memantau ketersediaan bahan makanan secara real-time
+- 📊 Mengetahui jumlah stok fisik aktual yang tersedia
+- ⚠️ Mendeteksi dini bahan yang mulai menipis melalui buffer alert
+- 📝 Mengelola data bahan makanan, kategori, dan batas minimum
+- 🔄 Mempermudah proses pencatatan stok masuk dan keluar
+- ⏱️ Mengurangi risiko kehabisan bahan saat operasional jam sibuk warung
+
+
+<p align="center">
+  <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
+</p>
+<h2> 🏪 Studi Kasus </h2>
 
 ### Warung Mi Ayam Mas Tono
 
@@ -147,12 +147,11 @@ Beberapa bahan yang menjadi bagian dari sistem monitoring antara lain:
 | 🥚 **Telur Puyuh / Ayam** | Bahan pelengkap tambahan | butir |
 | 🥟 **Kulit Pangsit** | Pangsit goreng / rebus | bungkus |
 
----
 <p align="center">
   <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
 </p>
 <a id="fitur-utama"></a>
-## 🚀 Fitur Utama
+<h2>🚀 Fitur Utama </h2>
 
 | Fitur | Deskripsi |
 |:---:|---|
@@ -164,13 +163,128 @@ Beberapa bahan yang menjadi bagian dari sistem monitoring antara lain:
 | 📋 **Log Riwayat (Audit Trail)** | Rekaman kronologis dari seluruh mutasi dan aktivitas sistem secara transparan |
 | 📑 **Laporan & Cetak Dokumen** | Rekapitulasi mutasi dan valuasi persediaan siap cetak formal / export PDF |
 
----
 <p align="center">
   <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
 </p>
 
+<h2>🛠️ Technology Stack</h2>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" height="70" alt="PHP" title="PHP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="70" height="70" alt="CodeIgniter 3" title="CodeIgniter 3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" alt="MySQL" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70" alt="HTML5" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70" alt="CSS3" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" alt="JavaScript" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" alt="Git" title="Git" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70" alt="GitHub" title="GitHub" />
+</picture>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70" alt="Visual Studio Code" title="Visual Studio Code" />
+</p>
+<table>
+  <thead>
+    <tr>
+      <th>Teknologi</th>
+      <th>Nama</th>
+      <th>Fungsi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Backend Framework</td>
+      <td>
+        <a href="https://codeigniter.com/userguide3/" target="_blank">
+          <b>CodeIgniter 3</b>
+        </a>
+      </td>
+      <td>Framework PHP untuk mengelola controller, model, routing, dan logika aplikasi.</td>
+    </tr>
+    <tr>
+      <td>Programming Language</td>
+      <td>
+        <a href="https://www.php.net/" target="_blank">
+          <b>PHP</b>
+        </a>
+      </td>
+      <td>Memproses data dan menjalankan logika aplikasi pada sisi server.</td>
+    </tr>
+    <tr>
+      <td>Database</td>
+      <td>
+        <a href="https://www.mysql.com/" target="_blank">
+          <b>MySQL</b>
+        </a>
+      </td>
+      <td>Menyimpan data stok bahan makanan, transaksi, dan informasi terkait.</td>
+    </tr>
+    <tr>
+      <td>Frontend</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+          <b>HTML5</b>
+        </a>
+      </td>
+      <td>Menyusun struktur halaman antarmuka aplikasi.</td>
+    </tr>
+    <tr>
+      <td>Styling</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+          <b>CSS3</b>
+        </a>
+      </td>
+      <td>Mengatur tampilan, warna, tata letak, dan desain antarmuka.</td>
+    </tr>
+    <tr>
+      <td>Frontend Scripting</td>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <b>JavaScript</b>
+        </a>
+      </td>
+      <td>Menambahkan interaksi dan fungsi dinamis pada halaman aplikasi.</td>
+    </tr>
+    <tr>
+      <td>Local Server</td>
+      <td>
+        <a href="https://www.apachefriends.org/" target="_blank">
+          <b>XAMPP</b>
+        </a>
+      </td>
+      <td>Menjalankan server web dan database secara lokal selama pengembangan.</td>
+    </tr>
+    <tr>
+      <td>Version Control</td>
+      <td>
+        <a href="https://git-scm.com/" target="_blank">
+          <b>Git</b>
+        </a>
+      </td>
+      <td>Mencatat perubahan kode dan membantu kolaborasi pengembangan.</td>
+    </tr>
+    <tr>
+      <td>Code Repository</td>
+      <td>
+        <a href="https://github.com/" target="_blank">
+          <b>GitHub</b>
+        </a>
+      </td>
+      <td>Menyimpan kode sumber dan memfasilitasi kolaborasi antaranggota tim.</td>
+    </tr>
+    <tr>
+      <td>Code Editor</td>
+      <td>
+        <a href="https://code.visualstudio.com/" target="_blank">
+          <b>Visual Studio Code</b>
+        </a>
+      </td>
+      <td>Editor untuk menulis, mengelola, dan memperbaiki kode program.</td>
+    </tr>
+  </tbody>
+</table>
 <a id="anggota-kelompok"></a>
-## 👥 Tim Pengembang (Kelompok 5)
+<h2>👥 Tim Pengembang (Kelompok 5) </h2>
 
 <p align="center">
   <img src="warungsrc/team.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
@@ -216,7 +330,7 @@ Beberapa bahan yang menjadi bagian dari sistem monitoring antara lain:
 <p align="center">
   <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
 </p>
-# 🏪 Mitra UMKM
+<h2>🏪 Mitra UMKM </h2>
 
 <table align="center">
   <tr>
@@ -236,6 +350,6 @@ Beberapa bahan yang menjadi bagian dari sistem monitoring antara lain:
 <p align="center">
   <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
 </p>
-## 📄 Lisensi & Hak Cipta
+<h2> 📄 Lisensi & Hak Cipta </h2>
 
 Dikembangkan oleh **Kelompok 5 MPPL 2026** - Program Studi Informatika, Universitas Samudra. Didedikasikan untuk kemajuan operasional UMKM **Warung Mie Ayam Mastono**.
