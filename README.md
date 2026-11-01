@@ -330,8 +330,141 @@ Beberapa bahan yang menjadi bagian dari sistem monitoring antara lain:
 <p align="center">
   <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
 </p>
-<h2>🏪 Mitra UMKM </h2>
 
+## 🗺️ Peta Tahapan Proyek
+<p align="center"><img src="warungsrc/tahapan.svg" alt="Tusuk progres fase WBS" width="100%"></p>
+
+<details>
+<summary><strong>⭐ LEVEL 1 — Inisiasi Proyek　🟩 Selesai</strong></summary>
+
+- [x] Identifikasi permasalahan pengelolaan stok bahan makanan.
+- [x] Identifikasi kebutuhan awal proyek.
+- [x] Penentuan tujuan dan ruang lingkup proyek.
+- [x] Identifikasi stakeholder proyek.
+- [x] Penentuan objek proyek, Warung Mi Ayam Mastono.
+
+**Output:** Identifikasi masalah, tujuan proyek, ruang lingkup, dan daftar stakeholder.
+
+</details>
+
+<details>
+<summary><strong>⭐ LEVEL 2 — Perencanaan & Setup Repository　🟩 Selesai</strong></summary>
+
+- [x] Penyusunan Project Charter.
+- [x] Penyusunan Stakeholder Registration.
+- [x] Penyusunan Work Breakdown Structure (WBS).
+- [x] Penyusunan Product Backlog.
+- [x] Perencanaan Sprint.
+- [x] Pembagian tugas anggota kelompok.
+- [x] Pembuatan repository GitHub.
+- [x] Pengaturan struktur repository dan lingkungan pengembangan.
+
+**Output:** Dokumen perencanaan proyek, Product Backlog, pembagian tugas, dan repository GitHub.
+
+</details>
+
+<details>
+<summary><strong>⭐ LEVEL 3 — Analisis Kebutuhan Sistem　🟩 Baseline Selesai
+</strong></summary>
+
+- [x] Observasi pengelolaan stok bahan makanan.
+- [x] Diskusi dengan pemilik/pengelola warung.
+- [x] Identifikasi jenis bahan makanan.
+- [x] Analisis proses stok masuk dan stok keluar.
+- [x] Analisis kebutuhan pengguna.
+- [x] Identifikasi kebutuhan fungsional sistem.
+- [x] Identifikasi kebutuhan nonfungsional sistem.
+
+**Output:** Spesifikasi kebutuhan sistem dan dokumentasi observasi.
+
+</details>
+
+<details>
+<summary><strong>⭐ LEVEL 4 — Perancangan Sistem (Design & Architecture)　🟩 Baseline Selesai</strong></summary>
+
+- [x] Perancangan arsitektur sistem.
+- [x] Perancangan database.
+- [x] Perancangan alur proses sistem.
+- [x] Perancangan antarmuka pengguna (UI/UX).
+- [x] Perancangan dashboard monitoring.
+- [x] Perancangan konsep Digital Twin.
+- [x] Perancangan alur pengelolaan persediaan.
+
+**Output:** Rancangan database, arsitektur sistem, diagram alur, mockup UI, dan desain Digital Twin.
+
+</details>
+
+<details>
+<summary><strong>🔹 LEVEL 5 — Pengembangan Aplikasi (Implementation)　▶️ Sedang Berjalan</strong></summary>
+
+- [ ] Implementasi database MySQL.
+- [ ] Implementasi autentikasi dan login.
+- [ ] Implementasi pengelolaan data bahan makanan.
+- [ ] Implementasi pencatatan stok masuk.
+- [ ] Implementasi pencatatan stok keluar.
+- [ ] Implementasi monitoring persediaan.
+- [ ] Implementasi status kondisi stok.
+- [ ] Implementasi peringatan stok minimum.
+- [ ] Implementasi riwayat perubahan stok.
+- [ ] Implementasi dashboard monitoring.
+- [ ] Implementasi representasi Digital Twin.
+- [ ] Integrasi seluruh fitur aplikasi.
+
+**Output:** Aplikasi monitoring stok bahan makanan dengan dashboard dan representasi Digital Twin.
+
+</details>
+
+<details>
+<summary><strong>🔒 LEVEL 6 — Pengujian Sistem (Testing & QA)</strong></summary>
+
+- [ ] Pengujian fitur login.
+- [ ] Pengujian pengelolaan data bahan.
+- [ ] Pengujian stok masuk dan stok keluar.
+- [ ] Pengujian monitoring persediaan.
+- [ ] Pengujian peringatan stok minimum.
+- [ ] Pengujian dashboard.
+- [ ] Pengujian sinkronisasi Digital Twin.
+- [ ] Identifikasi dan perbaikan bug.
+- [ ] Validasi hasil pengujian sistem.
+
+**Output:** Skenario pengujian, hasil QA/QC, dan dokumentasi perbaikan sistem.
+
+</details>
+
+<details>
+<summary><strong>🔒 LEVEL 7 — Dokumentasi Akhir & Rilis
+</strong></summary>
+
+- [ ] Konfigurasi dan implementasi akhir sistem.
+- [ ] Input data awal bahan makanan.
+- [ ] Evaluasi hasil implementasi.
+- [ ] Evaluasi pelaksanaan Sprint.
+- [ ] Penyusunan dokumentasi penggunaan sistem.
+- [ ] Penyusunan laporan akhir MPPL.
+- [ ] Finalisasi repository GitHub.
+- [ ] Pembuatan video demonstrasi sistem.
+- [ ] Persiapan dan presentasi hasil proyek.
+
+**Output:** Sistem final, dokumentasi, laporan akhir, video demo, dan repository GitHub final.
+
+</details>
+## 📊 Ringkasan Progres Proyek
+
+- [x] **Level 1 — Inisiasi:** Identifikasi masalah, tujuan proyek, ruang lingkup, dan stakeholder.
+- [x] **Level 2 — Perencanaan:** Project Charter, Stakeholder Registration, WBS, Product Backlog, dan setup GitHub.
+- [x] **Level 3 — Analisis Kebutuhan:** Observasi warung, identifikasi bahan makanan, serta analisis kebutuhan sistem.
+- [x] **Level 4 — Perancangan:** Desain database, arsitektur sistem, alur proses, UI/UX, dan konsep Digital Twin.
+- [ ] **Level 5 — Pengembangan:** Implementasi fitur pengelolaan stok, monitoring, dashboard, dan Digital Twin.
+- [ ] **Level 6 — Pengujian:** Pengujian fungsional, validasi sistem, QA/QC, dan perbaikan bug.
+- [ ] **Level 7 — Dokumentasi & Rilis:** Laporan akhir MPPL, dokumentasi, video demo, dan finalisasi proyek.
+
+### 🚀 Target Akhir Proyek
+Menghasilkan sistem monitoring stok bahan makanan yang mampu merepresentasikan kondisi persediaan secara digital, mencatat perubahan stok, serta membantu pemilik Warung Mie Ayam Mastono memantau ketersediaan bahan makanan secara lebih terstruktur.
+<p align="center">
+  <img src="warungsrc/bingkai.svg" alt="Sistem Monitoring Stok Bahan Makanan" width="100%" />
+</p>
+
+<h2>🏪 Mitra UMKM </h2>
 <table align="center">
   <tr>
     <td><b>🏪 Pemilik / Sponsor UMKM</b></td>
