@@ -448,15 +448,7 @@ Beberapa bahan yang menjadi bagian dari sistem monitoring antara lain:
 **Output:** Sistem final, dokumentasi, laporan akhir, video demo, dan repository GitHub final.
 
 </details>
-## 📊 Ringkasan Progres Proyek
 
-- [x] **Level 1 — Inisiasi:** Identifikasi masalah, tujuan proyek, ruang lingkup, dan stakeholder.
-- [x] **Level 2 — Perencanaan:** Project Charter, Stakeholder Registration, WBS, Product Backlog, dan setup GitHub.
-- [x] **Level 3 — Analisis Kebutuhan:** Observasi warung, identifikasi bahan makanan, serta analisis kebutuhan sistem.
-- [x] **Level 4 — Perancangan:** Desain database, arsitektur sistem, alur proses, UI/UX, dan konsep Digital Twin.
-- [ ] **Level 5 — Pengembangan:** Implementasi fitur pengelolaan stok, monitoring, dashboard, dan Digital Twin.
-- [ ] **Level 6 — Pengujian:** Pengujian fungsional, validasi sistem, QA/QC, dan perbaikan bug.
-- [ ] **Level 7 — Dokumentasi & Rilis:** Laporan akhir MPPL, dokumentasi, video demo, dan finalisasi proyek.
 
 ### 🚀 Target Akhir Proyek
 Menghasilkan sistem monitoring stok bahan makanan yang mampu merepresentasikan kondisi persediaan secara digital, mencatat perubahan stok, serta membantu pemilik Warung Mie Ayam Mastono memantau ketersediaan bahan makanan secara lebih terstruktur.
