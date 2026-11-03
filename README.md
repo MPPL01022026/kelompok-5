@@ -159,7 +159,7 @@ Beberapa bahan yang menjadi bagian dari sistem monitoring antara lain:
 | 📦 **Data Bahan (CRUD)** | Mengelola data bahan makanan, kategori, satuan, harga, dan batas minimum stok |
 | 📥 **Pencatatan Stok Masuk** | Mencatat pasokan penerimaan bahan dari pasar dan otomatis memperbarui stok fisik |
 | 📤 **Pencatatan Stok Keluar** | Mencatat pemakaian bahan masak dengan validasi ketat ketersediaan stok |
-| ⚠️ **Monitoring Buffer & Peringatan** | Indikator visual level aman, menipis, atau kritis dengan rekomendasi restock proaktif |
+| ⚠️ **Monitoring Buffer & Peringatan** | Indikator visual level aman, menipis, dan habis dengan rekomendasi restock proaktif |
 | 📋 **Log Riwayat (Audit Trail)** | Rekaman kronologis dari seluruh mutasi dan aktivitas sistem secara transparan |
 | 📑 **Laporan & Cetak Dokumen** | Rekapitulasi mutasi dan valuasi persediaan siap cetak formal / export PDF |
 
