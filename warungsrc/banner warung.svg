@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1915 568" width="1915" height="568" role="img" aria-label="Sistem Monitoring Stok Bahan Makanan - Warung Mi Ayam Mas Tono">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#12301e"/><stop offset="0.55" stop-color="#2b3d17"/><stop offset="1" stop-color="#6b2a0b"/></linearGradient>
+<radialGradient id="glowL" cx="0.2" cy="0.55" r="0.5"><stop offset="0" stop-color="#fbbf24" stop-opacity="0.35"/><stop offset="1" stop-color="#fbbf24" stop-opacity="0"/></radialGradient>
+<radialGradient id="circ" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#fde68a" stop-opacity="0.38"/><stop offset="1" stop-color="#fb923c" stop-opacity="0.12"/></radialGradient>
+<linearGradient id="rim" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4ade80"/><stop offset="0.5" stop-color="#fde047"/><stop offset="1" stop-color="#fb923c"/></linearGradient>
+<linearGradient id="tg" gradientUnits="userSpaceOnUse" x1="700" y1="0" x2="1750" y2="0">
+<stop offset="0" stop-color="#ffffff"/><stop offset="0.42" stop-color="#ffffff"/><stop offset="0.5" stop-color="#fde047"/><stop offset="0.58" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="-1100 0;1100 0" dur="5s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff6d6" stop-opacity="0"/><stop offset="0.5" stop-color="#fff6d6" stop-opacity="0.28"/><stop offset="1" stop-color="#fff6d6" stop-opacity="0"/></linearGradient>
+<linearGradient id="bowlG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e2492f"/><stop offset="1" stop-color="#8f1d12"/></linearGradient>
+<linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f59e0b"/><stop offset="1" stop-color="#ea580c"/></linearGradient>
+<linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7c2d12"/><stop offset="0.6" stop-color="#ea580c"/><stop offset="1" stop-color="#f59e0b"/></linearGradient>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
+<filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="6"/></filter>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="5" stdDeviation="4" flood-color="#000" flood-opacity="0.55"/></filter>
+<clipPath id="frame"><rect width="1915" height="568"/></clipPath>
+<pattern id="dots" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="1.8" fill="#fff" opacity="0.07"/></pattern>
+<path id="star" d="M0 -12 L3 -3 L12 0 L3 3 L0 12 L-3 3 L-12 0 L-3 -3Z"/>
+<path id="leaf" d="M0 0 Q12 -22 40 -16 Q34 12 0 0Z M0 0 L30 -10"/>
+</defs>
+
+<rect width="1915" height="568" fill="url(#bg)"/>
+<rect width="1915" height="568" fill="url(#dots)"/>
+<rect width="1915" height="568" fill="url(#glowL)"/>
+
+<g clip-path="url(#frame)">
+
+<!-- lingkaran dekor kanan -->
+<circle cx="1820" cy="70" r="170" fill="#fbbf24" opacity="0.10"><animate attributeName="r" values="160;185;160" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="1740" cy="560" r="150" fill="#fb923c" opacity="0.14"><animate attributeName="r" values="140;165;140" dur="8s" repeatCount="indefinite"/></circle>
+
+<!-- lingkaran + cincin putus-putus -->
+<circle cx="320" cy="295" r="215" fill="url(#circ)"/>
+<circle cx="320" cy="295" r="240" fill="none" stroke="#fde047" stroke-width="2.5" stroke-dasharray="10 14" opacity="0.6">
+<animateTransform attributeName="transform" type="rotate" from="0 320 295" to="360 320 295" dur="40s" repeatCount="indefinite"/></circle>
+<circle cx="320" cy="295" r="215" fill="none" stroke="#4ade80" stroke-width="2" opacity="0.2">
+<animate attributeName="r" values="205;230;205" dur="5.5s" repeatCount="indefinite"/></circle>
+
+<!-- gelombang footer -->
+<path fill="url(#wave)" d="M0 516 Q500 470 960 504 T1915 488 V568 H0Z">
+<animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 516 Q500 470 960 504 T1915 488 V568 H0Z;M0 500 Q500 520 960 490 T1915 508 V568 H0Z;M0 516 Q500 470 960 504 T1915 488 V568 H0Z"/></path>
+<text x="1000" y="538" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="17" font-weight="700" fill="#fff7e6" textLength="780" lengthAdjust="spacing" letter-spacing="3">MANAJEMEN PROYEK PERANGKAT LUNAK KELOMPOK 5</text>
+
+<!-- ===== MANGKUK MI AYAM ===== -->
+<g transform="translate(320 330) scale(0.8)" filter="url(#shadow)">
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" dur="3.2s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+<ellipse cx="0" cy="186" rx="80" ry="12" fill="#6b1209"/>
+<path d="M-172 0 H172 Q166 122 92 162 Q0 192 -92 162 Q-166 122 -172 0Z" fill="url(#bowlG)"/>
+<path d="M-168 38 Q0 78 168 38" fill="none" stroke="#fcd34d" stroke-width="7" opacity="0.9"/>
+<path d="M-160 62 Q0 104 160 62" fill="none" stroke="#fcd34d" stroke-width="3" opacity="0.7"/>
+<circle cx="-70" cy="112" r="9" fill="#fcd34d" opacity="0.8"/><circle cx="0" cy="124" r="9" fill="#fcd34d" opacity="0.8"/><circle cx="70" cy="112" r="9" fill="#fcd34d" opacity="0.8"/>
+<ellipse cx="0" cy="0" rx="172" ry="42" fill="#f3b94d"/>
+<ellipse cx="0" cy="2" rx="158" ry="34" fill="#5a1a10"/>
+<ellipse cx="0" cy="4" rx="150" ry="29" fill="#b4531a"/>
+<path d="M-150 2 Q-110 -78 0 -84 Q110 -78 150 2 Q0 42 -150 2Z" fill="#f7c948"/>
+<g fill="none" stroke="#e29b1d" stroke-width="5" stroke-linecap="round" stroke-dasharray="46 16">
+<path d="M-130 -4 Q-90 -52 -20 -60 Q40 -66 100 -30"><animate attributeName="stroke-dashoffset" values="0;-62" dur="2.4s" repeatCount="indefinite"/></path>
+<path d="M-110 6 Q-60 -34 10 -42 Q70 -46 128 -8"><animate attributeName="stroke-dashoffset" values="0;62" dur="2.9s" repeatCount="indefinite"/></path>
+<path d="M-90 16 Q-30 -14 40 -20 Q90 -22 130 6"><animate attributeName="stroke-dashoffset" values="0;-62" dur="3.3s" repeatCount="indefinite"/></path>
+<path d="M-60 -50 Q-20 -76 30 -72"><animate attributeName="stroke-dashoffset" values="0;62" dur="2.1s" repeatCount="indefinite"/></path>
+</g>
+<g fill="#9a5222" stroke="#5e300f" stroke-width="3">
+<ellipse cx="-78" cy="-26" rx="28" ry="17" transform="rotate(-18 -78 -26)"/>
+<ellipse cx="-30" cy="-56" rx="25" ry="15" transform="rotate(12 -30 -56)"/>
+<ellipse cx="-20" cy="-8" rx="26" ry="16" transform="rotate(-6 -20 -8)"/>
+<ellipse cx="38" cy="-40" rx="24" ry="14" transform="rotate(20 38 -40)"/>
+</g>
+<g fill="#4ade80" stroke="#166534" stroke-width="3" stroke-linejoin="round">
+<path d="M-128 -4 Q-118 -40 -88 -40 Q-84 -8 -128 -4Z"/>
+<path d="M92 -30 Q104 -62 134 -52 Q130 -20 92 -30Z"/>
+<path d="M-6 -66 Q4 -92 34 -86 Q30 -58 -6 -66Z"/>
+</g>
+<ellipse cx="82" cy="-6" rx="36" ry="26" fill="#fafafa" stroke="#d4d4d8" stroke-width="3"/>
+<circle cx="86" cy="-8" r="14" fill="#fbbf24"/><circle cx="82" cy="-12" r="4" fill="#fde68a"/>
+<g fill="#bbf7d0" stroke="#16a34a" stroke-width="2">
+<circle cx="-44" cy="-36" r="6"/><circle cx="10" cy="-30" r="6"/><circle cx="-100" cy="-8" r="5"/><circle cx="52" cy="-62" r="5"/><circle cx="124" cy="-14" r="5"/><circle cx="-8" cy="-74" r="5"/>
+</g>
+<g stroke="#d9a066" stroke-width="9" stroke-linecap="round">
+<g>
+<animateTransform attributeName="transform" type="rotate" values="0 120 -20;-4 120 -20;0 120 -20" dur="3.6s" repeatCount="indefinite"/>
+<line x1="120" y1="-20" x2="262" y2="-168"/><line x1="146" y1="-14" x2="292" y2="-140"/>
+</g></g>
+<g fill="none" stroke="#fffaf0" stroke-width="11" stroke-linecap="round" filter="url(#soft)">
+<path d="M-80 -90 q-16 -34 0 -68 t0 -68" opacity="0"><animate attributeName="opacity" values="0;0.6;0" dur="4.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 20;8 -60" dur="4.2s" repeatCount="indefinite"/></path>
+<path d="M-10 -96 q-16 -34 0 -68 t0 -68" opacity="0"><animate attributeName="opacity" values="0;0.6;0" dur="4.2s" begin="1.1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 20;-8 -60" dur="4.2s" begin="1.1s" repeatCount="indefinite"/></path>
+<path d="M60 -92 q-16 -34 0 -68 t0 -68" opacity="0"><animate attributeName="opacity" values="0;0.6;0" dur="4.2s" begin="2.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 20;8 -60" dur="4.2s" begin="2.2s" repeatCount="indefinite"/></path>
+</g>
+</g>
+</g>
+
+<!-- ===== TEKS KANAN ===== -->
+<!-- tag pill -->
+<g>
+<rect x="700" y="78" width="470" height="42" rx="21" fill="#0b1a10" fill-opacity="0.6" stroke="#fb923c" stroke-width="2.5"/>
+<circle cx="726" cy="99" r="7" fill="#fb923c"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="745" y="107" font-family="Verdana, Arial, sans-serif" font-size="20" font-weight="800" fill="#fde68a" textLength="405" lengthAdjust="spacing" letter-spacing="3">SISTEM MONITORING STOK UMKM</text>
+</g>
+
+<!-- judul -->
+<g font-family="Arial Black, Impact, Arial, sans-serif" font-weight="900" stroke="#7c2d12" stroke-width="8" stroke-linejoin="round" paint-order="stroke">
+<text x="700" y="212" font-size="92" fill="url(#tg)" textLength="1040" lengthAdjust="spacingAndGlyphs">SISTEM MONITORING</text>
+<text x="700" y="312" font-size="92" fill="url(#tg)" textLength="1080" lengthAdjust="spacingAndGlyphs">STOK BAHAN MAKANAN</text>
+</g>
+<!-- garis bergelombang -->
+<path d="M702 340 q22 -14 44 0 t44 0 t44 0 t44 0 t44 0 t44 0 t44 0 t44 0 t44 0" fill="none" stroke="#fde047" stroke-width="6" stroke-linecap="round" stroke-dasharray="40 10">
+<animate attributeName="stroke-dashoffset" values="0;-100" dur="3s" repeatCount="indefinite"/></path>
+
+<!-- pita nama warung -->
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+<rect x="700" y="364" width="560" height="56" rx="28" fill="url(#ribbon)" stroke="#fff7c2" stroke-width="3" filter="url(#shadow)"/>
+<text x="980" y="402" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="30" font-weight="800" fill="#fff" textLength="490" lengthAdjust="spacingAndGlyphs">Warung Mi Ayam Mas Tono</text>
+</g>
+
+<!-- chip fitur -->
+<g font-family="Verdana, Arial, sans-serif" font-size="21" font-weight="700" fill="#fff" text-anchor="middle">
+<rect x="700" y="436" width="210" height="44" rx="22" fill="#14532d" stroke="#4ade80" stroke-width="2"><animate attributeName="opacity" values="0.75;1;0.75" dur="2.4s" repeatCount="indefinite"/></rect>
+<circle cx="724" cy="458" r="6" fill="#4ade80"/>
+<text x="822" y="466" textLength="150" lengthAdjust="spacingAndGlyphs">Stok Real-time</text>
+<rect x="930" y="436" width="300" height="44" rx="22" fill="#7c2d12" stroke="#fb923c" stroke-width="2"><animate attributeName="opacity" values="0.75;1;0.75" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></rect>
+<circle cx="954" cy="458" r="6" fill="#fb923c"/>
+<text x="1094" y="466" textLength="230" lengthAdjust="spacingAndGlyphs">Notifikasi Stok Menipis</text>
+<rect x="1250" y="436" width="240" height="44" rx="22" fill="#713f12" stroke="#fde047" stroke-width="2"><animate attributeName="opacity" values="0.75;1;0.75" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></rect>
+<circle cx="1274" cy="458" r="6" fill="#fde047"/>
+<text x="1384" y="466" textLength="180" lengthAdjust="spacingAndGlyphs">Laporan Otomatis</text>
+</g>
+
+<!-- daun melayang -->
+<g transform="translate(560 500) rotate(-30) scale(0.9)"><g opacity="0"><use href="#leaf" fill="#4ade80" stroke="#14532d" stroke-width="2"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;60 -300" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.15;0.8;1" dur="9s" repeatCount="indefinite"/></g></g>
+<g transform="translate(1600 490) rotate(20) scale(0.8)"><g opacity="0"><use href="#leaf" fill="#4ade80" stroke="#14532d" stroke-width="2"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;-70 -300" dur="11s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.15;0.8;1" dur="11s" begin="3s" repeatCount="indefinite"/></g></g>
+<g transform="translate(1000 70) rotate(200) scale(0.7)"><g opacity="0"><use href="#leaf" fill="#86efac" stroke="#14532d" stroke-width="2"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;40 140" dur="10s" begin="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.15;0.8;1" dur="10s" begin="5s" repeatCount="indefinite"/></g></g>
+<g transform="translate(90 440) rotate(-10) scale(0.8)"><g opacity="0"><use href="#leaf" fill="#4ade80" stroke="#14532d" stroke-width="2"/>
+<animateTransform attributeName="transform" type="translate" values="0 0;50 -120" dur="12s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.15;0.8;1" dur="12s" begin="2s" repeatCount="indefinite"/></g></g>
+
+<!-- kilau -->
+<g transform="translate(520 110)"><use href="#star" fill="#fff7c2" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.4;1.3;0.4" dur="2.6s" repeatCount="indefinite"/></use></g>
+<g transform="translate(1780 200)"><use href="#star" fill="#fff7c2" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="3.1s" begin="0.9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.5;1.5;0.5" dur="3.1s" begin="0.9s" repeatCount="indefinite"/></use></g>
+<g transform="translate(1290 395)"><use href="#star" fill="#fff7c2" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.8s" begin="1.7s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.4;1.2;0.4" dur="2.8s" begin="1.7s" repeatCount="indefinite"/></use></g>
+<g transform="translate(560 330)"><use href="#star" fill="#fff7c2" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="3.4s" begin="0.4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.4;1.1;0.4" dur="3.4s" begin="0.4s" repeatCount="indefinite"/></use></g>
+<g transform="translate(1840 380)"><use href="#star" fill="#fff7c2" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="3.3s" begin="1.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.4;1.2;0.4" dur="3.3s" begin="1.2s" repeatCount="indefinite"/></use></g>
+<g transform="translate(130 110)"><use href="#star" fill="#fff7c2" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.9s" begin="2.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="0.4;1.2;0.4" dur="2.9s" begin="2.6s" repeatCount="indefinite"/></use></g>
+
+<!-- sapuan cahaya -->
+<rect x="-420" y="30" width="260" height="540" fill="url(#sheen)" transform="skewX(-18)">
+<animate attributeName="x" values="-420;2300;2300" keyTimes="0;0.55;1" dur="7s" repeatCount="indefinite"/></rect>
+</g>
+
+<!-- bingkai bercahaya -->
+<rect x="3" y="3" width="1909" height="562" rx="0" fill="none" stroke="url(#rim)" stroke-width="5" opacity="0.9"/>
+<rect x="3" y="3" width="1909" height="562" rx="0" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" pathLength="100" stroke-dasharray="7 93" opacity="0.95" filter="url(#glow)">
+<animate attributeName="stroke-dashoffset" from="0" to="-100" dur="7s" repeatCount="indefinite"/></rect>
+<rect x="3" y="3" width="1909" height="562" rx="0" fill="none" stroke="#fffbe0" stroke-width="3" stroke-linecap="round" pathLength="100" stroke-dasharray="4 96">
+<animate attributeName="stroke-dashoffset" from="0" to="-100" dur="7s" repeatCount="indefinite"/></rect>
+</svg>
